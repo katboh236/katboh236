@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: [https://www.linkedin.com/in/kat-bohush/]
+[linkedin]: https://www.linkedin.com/in/kat-bohush/
